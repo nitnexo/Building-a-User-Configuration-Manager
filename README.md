@@ -1,5 +1,5 @@
 # Building-a-User-Configuration-Manager
-A User Configuration Manager lets users change things like the theme, language, and alerts. adding features that let users view, change, remove, and add settings.
+A User Configuration Manager lets users change things like the theme, language, and notiifcation. adding features that let users view, change, remove, and add settings.
 
 #Objective:
 Fulfill the user stories below and get all the tests to pass to complete the lab.
